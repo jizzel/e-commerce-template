@@ -1,0 +1,11 @@
+.c-card {
+  border-radius: 10px;
+}
+
+.c-card .card-image img {
+  border-radius: 10px 10px 0 0;
+}
+
+.c-card .card-action {
+  border-radius: 0 0 10px 10px;
+}
